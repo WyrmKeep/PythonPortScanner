@@ -35,7 +35,7 @@ This project requires Python 3.6 or higher. No additional libraries are needed a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/python-port-scanner.git
+   git clone https://github.com/WyrmKeep/python-port-scanner.git
    cd python-port-scanner
    ```
 
