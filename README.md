@@ -3,7 +3,6 @@
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-Unspecified-red)](LICENSE)
 
-A powerful, user-friendly port scanning tool built with Python and tkinter. Scan networks, identify open ports, and enhance your cybersecurity toolkit with this versatile application.
 
 ## 📋 Table of Contents
 
